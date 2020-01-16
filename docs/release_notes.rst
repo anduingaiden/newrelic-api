@@ -1,6 +1,12 @@
 Release Notes
 =============
 
+v1.0.7
+------
+
+* Added Application Deployments
+* Fixed some setup.py pep8 errors
+
 v1.0.6
 ------
 
